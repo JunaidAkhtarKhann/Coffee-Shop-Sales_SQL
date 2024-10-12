@@ -1,5 +1,3 @@
-Here are the key elements and functions used in your SQL file:
-
 ### 1. **Database and Table Management:**
    - `CREATE DATABASE`: Creates a new database named `Coffee_shop_Sales`.
    - `USE`: Switches to the specified database, in this case, `Coffee_shop_Sales`.
